@@ -31,8 +31,9 @@
 <br>
 <h2>GitHub Stats</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexsandrodasilva&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexsandrodasilva&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
+   
+   [![Alexsandro GitHub stats](https://github-readme-stats.vercel.app/api?username=alx-8914&show_icons=true&text_color=0561bf&icon_color=5bb513&bg_color=000000&border_color=36123c)](https://github.com/anuraghazra/github-readme-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alx-8914&height=30&bg_color=000&title_color=0561bf&border_radius=3&border_color=36123c&hide=issues&text_color=5bb513)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <h2>Connect with me!</h2>
@@ -44,11 +45,9 @@
 
 ###
 
-<br clear="both">
-
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/alx-8914/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/alx-8914/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alx-8914/alx-8914/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alx-8914/alx-8914/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/alx-8914/alx-8914/output/github-contribution-grid-snake.svg">
 </picture>
 
