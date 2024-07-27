@@ -27,7 +27,7 @@
 </div>
 
 <h2>Instituição de Aprendizagem: <a href="https://rodolfomori.com.br/devclub">DevClub</a></h2>
- <img align="center" alt="Coding" width="100" src="https://github.com/alx-8914/About-me/raw/main/dev_club_devs_logo.jpg">
+ <img align="center" alt="Coding" width="200" src="https://github.com/alx-8914/alx-8914/raw/main/dev_club_devs_logo.jpg">
 <br>
 <h2>GitHub Stats</h2>
 <div align="center">
