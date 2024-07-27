@@ -39,8 +39,8 @@
 <h2>Connect with me!</h2>
 <br>
 <div align="left">
-  <img [![E-mail] src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF"](mailto:alexdevsilva@gmail.com) height="28" alt="gmail logo"/>
-  <img [![LinkedIn] src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF"](https://www.linkedin.com/in/alexsandro-da-silva-developer)>
+  <a href="mailto:alexdevsilva@gmail.com"><img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF"] height="28" alt="gmail logo"/></a>
+  <a href="https://www.linkedin.com/in/alexsandro-da-silva-developer"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF"></a>
 </div>
 
 ###
