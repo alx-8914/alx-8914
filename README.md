@@ -52,6 +52,7 @@
 </picture>
 
 ###
+<!---
 
 - 👋 Hi, I’m @alx-8914
 - 👀 I’m interested in ...
@@ -61,7 +62,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!---
 alx-8914/alx-8914 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
