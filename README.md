@@ -3,9 +3,12 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&pause=1000&color=6ECF42&width=435&lines=%22Hello+World%22++I%C2%B4m+Alexsandro%2C;I%C2%B4m+a+DevClub+Student;I%C2%B4m++a+Front-End++and+Back-End;+Programmer+Web+%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a><br>
   <br>
   <img align="right" alt="Coding" width="230" src="https://www.elaunchinfotech.com/frontend/assets/images/Java_T-img2.jpg">
+  <br>
 </div>
 <h2>
-  Olá Mundo, meu nome é Alexsandro da Silva sou um Desenvolvedor Web/Front-End em ascensão na Área da Programação. Estou Desenvolvendo o meu mais novo aprimoramento em tecnologias como por exemplo ;  HTML, CSS e iniciando o JavaScript e React. Atualmente realizo trabalhos como Freelancer desenvolvendo projetos com essas tecnologias.
+Hello World,
+<br>
+My name is Alexsandro da Silva, I am 42 years old, and I am a Web/Front-End Developer in the field of programming. I am currently studying, developing, and enhancing my knowledge in prominent technologies such as HTML, CSS, JavaScript, Node.js, React, GitHub, Bootstrap, and I am beginning to learn C#. At present, I work as a freelancer and am involved in developing projects within both corporate structures and private professional settings.
 </h2>
 
 <div align="left">
