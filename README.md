@@ -2,7 +2,7 @@
 <div>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&pause=1000&color=6ECF42&width=435&lines=%22Hello+World%22++I%C2%B4m+Alexsandro%2C;I%C2%B4m+a+DevClub+Student;I%C2%B4m++a+Front-End++and+Back-End;+Programmer+Web+%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a><br>
   <br>
-  <img align="right" alt="Coding" width="230" src="https://www.elaunchinfotech.com/frontend/assets/images/Java_T-img2.jpg">
+  <img align="top" alt="Coding" width="230" src="https://www.elaunchinfotech.com/frontend/assets/images/Java_T-img2.jpg">
   <br>
 </div>
 <h2>
