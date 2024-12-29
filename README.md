@@ -20,6 +20,7 @@ My name is Alexsandro da Silva, I am 42 years old, and I am a Web/Front-End Deve
   <img width="12" />
   <img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/>
   <img width="12" />
+  <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" alt="external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo"/>
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/docker.png" alt="docker"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/npm.png" alt="npm"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/>
