@@ -34,6 +34,7 @@ My name is Alexsandro da Silva, I am 42 years old, and I am a Web/Front-End Deve
 
 <h2>Instituição de Aprendizagem: <a href="https://rodolfomori.com.br/devclub">DevClub</a></h2>
  <img align="center" alt="Coding" width="200" src="https://github.com/alx-8914/alx-8914/raw/main/dev_club_devs_logo.jpg">
+ <img src="Captura de tela 2024-12-27 184428.png" />
 <br>
 <h2>GitHub Stats</h2>
 <div align="center">
