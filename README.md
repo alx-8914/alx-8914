@@ -30,6 +30,11 @@ My name is Alexsandro da Silva, I am 42 years old, and I am a Web/Front-End Deve
   <img width="12" />
   <img width="50" height="50" src="https://img.icons8.com/color/50/bootstrap--v2.png" alt="bootstrap--v2"/>
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="90" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="48" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="48" alt="yarn logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="48" alt="csharp logo"  />
 </div style="display: flex">
 
