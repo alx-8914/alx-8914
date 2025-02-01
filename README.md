@@ -36,6 +36,7 @@ My name is Alexsandro da Silva, I am 42 years old, and I am a Web/Front-End Deve
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="48" alt="yarn logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="48" alt="csharp logo"  />
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-shadow-tal-revivo.png" height="48"/>
 </div style="display: flex">
 
 <h2>Instituição de Aprendizagem: <a href="https://rodolfomori.com.br/devclub">DevClub</a></h2>
