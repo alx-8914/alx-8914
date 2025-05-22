@@ -4,11 +4,11 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou desenvolvedor Web/Front-End apaixonado por tecnologia. Atualmente estudo e me desenvolvo em tecnologias como JavaScript, Node.js, React, e muito mais!
+Sou desenvolvedor Web/Front-End apaixonado por tecnologia. Atualmente aprimorando e me desenvolvendo nas tecnologias como JavaScript, Typescript, Next.js, Node.js, React, e muito mais!
 
-- 🎓 Estudante do [DevClub](https://rodolfomori.com.br/devclub)
-- 🌱 Aprendendo diariamente novas stacks e boas práticas.
-- 💡 Gosto de compartilhar conhecimento.
+- 🎓 Formado na [DevClub](https://rodolfomori.com.br/devclub)
+- 🌱 densenvolvedor fullstacks com boas práticas nas aplicações.
+- 💡 Gosto de compartilhar conhecimento e muito network na comunidade.
 
 ## 🚀 Tecnologias & Ferramentas
 
@@ -37,7 +37,7 @@ Sou desenvolvedor Web/Front-End apaixonado por tecnologia. Atualmente estudo e m
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alx-8914&layout=compact&theme=dark" height="150" alt="Top Languages"/>
 </div>
 
-## 🏫 Instituição de Aprendizagem
+## 🏫 Instituição de Formação
 
 [DevClub](https://rodolfomori.com.br/devclub)
 
