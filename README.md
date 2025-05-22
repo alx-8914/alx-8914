@@ -7,8 +7,14 @@
 Sou desenvolvedor Web/Front-End apaixonado por tecnologia. Atualmente aprimorando e me desenvolvendo nas tecnologias como JavaScript, Typescript, Next.js, Node.js, React, e muito mais!
 
 - 🎓 Formado na [DevClub](https://rodolfomori.com.br/devclub)
-- 🌱 densenvolvedor fullstacks com boas práticas nas aplicações.
-- 💡 Gosto de compartilhar conhecimento e muito network na comunidade.
+- 🌱 Desenvolvedor fullstack focado em boas práticas nas aplicações.
+- 💡 Gosto de compartilhar conhecimento e fazer muito networking na comunidade.
+
+## 🌐 Meu Portfólio
+
+Conheça meu portfólio profissional publicado na Vercel:
+
+[![Acesse meu portfólio](https://img.shields.io/badge/Portfólio-VERCEL-000?style=for-the-badge&logo=vercel&logoColor=white)](https://portifolio-alexdev.vercel.app/)
 
 ## 🚀 Tecnologias & Ferramentas
 
@@ -16,6 +22,8 @@ Sou desenvolvedor Web/Front-End apaixonado por tecnologia. Atualmente aprimorand
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
   <img src="https://img.icons8.com/color/48/nodejs.png" height="40" alt="Node.js"/>
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" height="40" alt="MongoDB"/>
@@ -25,7 +33,6 @@ Sou desenvolvedor Web/Front-End apaixonado por tecnologia. Atualmente aprimorand
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="TailwindCSS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#"/>
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-shadow-tal-revivo.png" height="40" alt="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" alt="Yarn"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva"/>
 </div>
