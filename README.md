@@ -43,7 +43,7 @@ Sou desenvolvedor Web/Front-End apaixonado por tecnologia. Atualmente aprimorand
 
 <img align="center" alt="DevClub Logo" width="200" src="https://github.com/alx-8914/alx-8914/raw/main/dev_club_devs_logo.jpg">
 
-## 🖼️ Projetos em Destaque
+## 💻🎓🏆 Certificação
 
 <img align="center" alt="Captura de tela 1" width="400" src="Captura de tela 2024-12-27 184428.png" />
 <img align="center" alt="Captura de tela 2" width="400" src="Captura de tela 2024-12-27 180656.png" />
