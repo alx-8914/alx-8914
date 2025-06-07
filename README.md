@@ -46,7 +46,7 @@ Conheça meu portfólio profissional publicado na Vercel:
 
 ## 🏫 Instituição de Formação
 
-[DevClub](https://rodolfomori.com.br/devclub)
+[DevClub](https://rodolfomori.com.br/)
 
 <img align="center" alt="DevClub Logo" width="200" src="https://github.com/alx-8914/alx-8914/raw/main/dev_club_devs_logo.jpg">
 
