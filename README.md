@@ -6,7 +6,7 @@
 
 Sou desenvolvedor Web/Front-End apaixonado por tecnologia. Atualmente aprimorando e me desenvolvendo nas tecnologias como JavaScript, Typescript, Next.js, Node.js, React, e muito mais!
 
-- 🎓 Formado na [DevClub](https://rodolfomori.com.br/devclub)
+- 🎓 Formado na [DevClub](https://rodolfomori.com.br/)
 - 🌱 Desenvolvedor fullstack focado em boas práticas nas aplicações.
 - 💡 Gosto de compartilhar conhecimento e fazer muito networking na comunidade.
 
