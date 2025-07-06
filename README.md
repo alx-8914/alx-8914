@@ -17,6 +17,7 @@ Conheça meu portfólio profissional publicado na Vercel:
 [![Acesse meu portfólio](https://img.shields.io/badge/Portfólio-VERCEL-000?style=for-the-badge&logo=vercel&logoColor=white)](https://portifolio-alexdev.vercel.app/)
 
 ## 🚀 Tecnologias & Ferramentas
+<div class="tech-icons-container" align="left">
 <style>
   .tech-icons-container img {
     transition: transform 0.3s ease, filter 0.3s ease;
@@ -32,7 +33,6 @@ Conheça meu portfólio profissional publicado na Vercel:
 }
 </style>
 
-<div class="tech-icons-container" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" height="42" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" height="42" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript"/>
