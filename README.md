@@ -35,7 +35,7 @@ Conheça meu portfólio profissional publicado na Vercel:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" alt="Yarn"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva"/>
-  <img src="https://img.icons8.com/color/48/python--v1.png" width="48" height="48" alt="python--v1"/>
+  <img src="https://img.icons8.com/color/90/python--v1.png" height="40" alt="python--v1"/>
 </div>
 
 ## 📊 GitHub Stats
