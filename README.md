@@ -1,10 +1,12 @@
-# 👋 Hi, I'm Alexsandro da Silva
+# 👋 Olá, eu sou Alexsandro!
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&pause=1000&color=6ECF42&width=435&lines=Hello+World!+I'm+Alexsandro;Web%2FFront-End+Developer;Always+learning+new+techs" alt="Typing SVG" />
 
 ## 👨‍💻 Sobre mim
 
-Sou desenvolvedor Web/Front-End apaixonado por tecnologia. Atualmente aprimorando e me desenvolvendo nas tecnologias como JavaScript, Typescript, Next.js, Node.js, React, e muito mais!
+
+Desenvolvedor Full Stack com experiência em automação de processos utilizando n8n, integração de APIs REST e aplicação de Inteligência Artificial em fluxos operacionais. Atuo no desenvolvimento de aplicações Web modernas com React, Next.js, TypeScript e Node.js, além da criação de workflows automatizados, Webhooks e agentes de IA integrados à OpenAI API. Experiência em backend com Java (Spring Boot) e C# (.NET Core), bancos de dados PostgreSQL e MySQL, e boas práticas como Clean Code, arquitetura de software e documentação técnica. Focado em transformar processos manuais em soluções automatizadas, escaláveis e orientadas a valor de negócio.
+
 
 - 🎓 Formado na [DevClub](https://rodolfomori.com.br/)
 - 🌱 Desenvolvedor fullstack focado em boas práticas nas aplicações.
