@@ -50,11 +50,13 @@ Conheça meu portfólio profissional publicado na Vercel:
 [DevClub](https://rodolfomori.com.br/)
 
 <img align="center" alt="DevClub Logo" width="200" src="https://github.com/alx-8914/alx-8914/raw/main/dev_club_devs_logo.jpg">
+<img align="center" alt="Sujeito Logo" width="200" src="https://github.com/alx-8914/alx-8914/raw/main/cropped-SujeitoP-1.png">
 
 ## 💻🎓🏆 Certificação
 
 <img align="center" alt="Captura de tela 1" width="400" src="Captura de tela 2024-12-27 184428.png" />
 <img align="center" alt="Captura de tela 2" width="400" src="Captura de tela 2024-12-27 180656.png" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/cb38bb96-c987-41cc-860c-9de5c487a739"/>
 
 ## 📫 Contato
 
