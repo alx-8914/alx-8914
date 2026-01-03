@@ -39,6 +39,11 @@ Conheça meu portfólio profissional publicado na Vercel:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42" alt="Python"/>
 </div>
 
+## 📊 Git stats
+![GitHub Streak](https://streak-stats.demolab.com?user=alx-8914&theme=radical)
+
+
+
 
 ## 🏫 Instituição de Formação
 
