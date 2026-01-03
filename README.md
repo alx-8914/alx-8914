@@ -14,7 +14,7 @@ Sou desenvolvedor Web/Front-End apaixonado por tecnologia. Atualmente aprimorand
 
 Conheça meu portfólio profissional publicado na Vercel:
 
-[![Acesse meu portfólio](https://img.shields.io/badge/Portfólio-VERCEL-000?style=for-the-badge&logo=vercel&logoColor=white)](https://portifolio-alexdev.vercel.app/)
+[![Acesse meu portfólio](https://img.shields.io/badge/Portfólio-VERCEL-000?style=for-the-badge&logo=vercel&logoColor=white)](https://new-portifolio-nextjs.vercel.app/)
 
 ## 🚀 Tecnologias & Ferramentas
 <div class="tech-icons-container" align="left">
