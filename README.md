@@ -40,10 +40,12 @@ Conheça meu portfólio profissional publicado na Vercel:
 </div>
 <br>
 ## 📊 GitHub Stats
-
+<br>
+<br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alx-8914&show_icons=true&theme=dark" height="150" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alx-8914&layout=compact&theme=dark" height="150" alt="Top Languages"/>
+  
+  ![alx-8914 GitHub stats](https://github-readme-stats.vercel.app/api?username=alx-8914&show_icons=true&theme=dracula)
+  [![alx-8914 GitHub stats](https://github-readme-stats.vercel.app/api?username=alx-8914)](https://github.com/alx-8914/github-readme-stats)
 </div>
 
 ## 🏫 Instituição de Formação
