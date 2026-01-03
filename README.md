@@ -38,15 +38,7 @@ Conheça meu portfólio profissional publicado na Vercel:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="42" height="42" alt="Canva"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42" alt="Python"/>
 </div>
-<br>
-## 📊 GitHub Stats
-<br>
-<br>
-<div align="center">
-  
-  ![alx-8914 GitHub stats](https://github-readme-stats.vercel.app/api?username=alx-8914&show_icons=true&theme=dracula)
-  [![alx-8914 GitHub stats](https://github-readme-stats.vercel.app/api?username=alx-8914)](https://github.com/alx-8914/github-readme-stats)
-</div>
+
 
 ## 🏫 Instituição de Formação
 
@@ -65,7 +57,6 @@ Conheça meu portfólio profissional publicado na Vercel:
   <a href="mailto:alexdevsilva@gmail.com"><img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/alexsandro-da-silva-developer"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn"/></a>
 </div>
-
 ---
 
 <!-- Snake animation -->
