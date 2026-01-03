@@ -40,8 +40,12 @@ Conheça meu portfólio profissional publicado na Vercel:
 </div>
 
 ## 📊 Git stats
-![GitHub Streak](https://streak-stats.demolab.com?user=alx-8914&theme=radical)
 
+<div class="tech-icons-container" align="left">
+  ![GitHub Streak](https://streak-stats.demolab.com?user=alx-8914&theme=radical)
+  <br>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alx-8914&layout=compact&theme=radical)
+</div>
 
 
 
