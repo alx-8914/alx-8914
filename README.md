@@ -37,6 +37,7 @@ Conheça meu portfólio profissional publicado na Vercel:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width="42" height="42" alt="Yarn"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="42" height="42" alt="Canva"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42" alt="Python"/>
+  <img src="https://pnghdpro.com/wp-content/themes/pnghdpro/download/social-media-and-brands/n8n-logo.png" width="62" height="62" alt="n8n"/>
 </div>
 
 ## 📊 Git stats
