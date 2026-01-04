@@ -10,7 +10,9 @@ Desenvolvedor Full Stack com experiência em automação de processos utilizando
 
 - 🎓 Formado na [DevClub](https://rodolfomori.com.br/)
 - 🌱 Desenvolvedor fullstack focado em boas práticas nas aplicações.
-- 💡 Gosto de compartilhar conhecimento e fazer muito networking na comunidade.
+- 🎓 Formado na Comunidade Automate [SujeitoProgramador](https://sujeitoprogramador.com/fullstackpro/)
+- 🌱 Desenvolvedor Full Stack com foco em automação de processos, integração de sistemas e aplicação prática de Inteligência Artificial.
+- 💡 Focado em transformar processos manuais em soluções automatizadas, escaláveis e orientadas a valor de negócio compartilhando conhecimento e fazer muito networking na comunidade.
 
 ## 🌐 Meu Portfólio
 
@@ -48,16 +50,19 @@ Conheça meu portfólio profissional publicado na Vercel:
 
 ## 🏫 Instituição de Formação
 
-[DevClub](https://rodolfomori.com.br/)
+<div style="display: inline_block" padding="200"><br/>
+  <img align="center" alt="DevClub Logo" width="200" src="https://github.com/alx-8914/alx-8914/raw/main/dev_club_devs_logo.jpg"> 
+  <img align="center" alt="Sujeito Logo" width="200" src="https://github.com/alx-8914/alx-8914/raw/main/cropped-SujeitoP-1.png">
+</div>
 
-<img align="center" alt="DevClub Logo" width="200" src="https://github.com/alx-8914/alx-8914/raw/main/dev_club_devs_logo.jpg">
-<img align="center" alt="Sujeito Logo" width="200" src="https://github.com/alx-8914/alx-8914/raw/main/cropped-SujeitoP-1.png">
 
 ## 💻🎓🏆 Certificação
-
-<img align="center" alt="Captura de tela 1" width="400" src="Captura de tela 2024-12-27 184428.png" />
-<img align="center" alt="Captura de tela 2" width="400" src="Captura de tela 2024-12-27 180656.png" />
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/cb38bb96-c987-41cc-860c-9de5c487a739"/>
+<div style="display: inline_block" padding="200"><br/>
+  <img align="center" alt="Captura de tela 1" width="300" src="Captura de tela 2024-12-27 184428.png" />
+  <img align="center" width="300" alt="image" src="https://github.com/user-attachments/assets/cb38bb96-c987-41cc-860c-9de5c487a739"/>
+</div>
+  <img align="center" alt="Captura de tela 2" width="300" src="Captura de tela 2024-12-27 180656.png" />
+<br>
 
 ## 📫 Contato
 
@@ -65,6 +70,7 @@ Conheça meu portfólio profissional publicado na Vercel:
   <a href="mailto:alexdevsilva@gmail.com"><img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/alexsandro-da-silva-developer"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn"/></a>
 </div>
+
 
 <!-- Snake animation -->
 <picture>
