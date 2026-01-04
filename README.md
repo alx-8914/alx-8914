@@ -65,7 +65,6 @@ Conheça meu portfólio profissional publicado na Vercel:
   <a href="mailto:alexdevsilva@gmail.com"><img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/alexsandro-da-silva-developer"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn"/></a>
 </div>
----
 
 <!-- Snake animation -->
 <picture>
